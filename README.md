@@ -4,6 +4,8 @@ My name is Elijah Wilding. I am currently attending McMaster University pursuing
 
 ### Team Projects
 
+[3D Chess](http://wildingelijah.github.io/3DChess)
+
 ### Solo Projects
 
 
