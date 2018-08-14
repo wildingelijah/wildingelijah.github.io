@@ -1,4 +1,4 @@
-## Welcome to my software engineering portfolio.
+# Welcome to my software engineering portfolio.
 
 My name is Elijah Wilding. I am currently attending McMaster University pursuing a degree in Software Engineering. The areas of my field I am most passionate about are app design and game design. Below is some of my work.
 
@@ -11,3 +11,9 @@ My name is Elijah Wilding. I am currently attending McMaster University pursuing
 ### Solo Projects
 
 [Mobolade's Journey (Unity Game)](http://wildingelijah.github.io/MoboladesJourney)
+
+### Summary
+
+Thank you for viewing my portfolio. If you have any questions about these projects or need to contact me for any other reason then I am best contacted at my email: elijahwilding@gmail.com.
+
+Have a wonderful day!
