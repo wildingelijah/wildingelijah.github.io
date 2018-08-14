@@ -6,6 +6,8 @@ My name is Elijah Wilding. I am currently attending McMaster University pursuing
 
 [3D Chess](http://wildingelijah.github.io/3DChess)
 
+[Logo Detection App](http://wildingelijah.github.io/LogoDetectionApp)
+
 ### Solo Projects
 
 
