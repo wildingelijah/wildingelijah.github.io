@@ -8,11 +8,13 @@ My name is Elijah Wilding. I am currently attending McMaster University pursuing
 
 [Logo Detection App (Android App)](http://wildingelijah.github.io/LogoDetectionApp)
 
+[Software Engineering Capstone (Game) - Work in Progress](http://wildingelijah.github.io/SoftwareEngCapstone)
+
 ### Solo Projects
 
 [Mobolade's Journey (Unity Game)](http://wildingelijah.github.io/MoboladesJourney)
 
-[Pokemon Location Simulator (iOS App)]
+[Pokemon Go Location Simulator (iOS App)]
 
 ### Summary
 
