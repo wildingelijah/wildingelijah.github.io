@@ -8,7 +8,7 @@ My name is Elijah Wilding. I am currently attending McMaster University pursuing
 
 [Logo Detection App (Android App)](http://wildingelijah.github.io/LogoDetectionApp)
 
-[Software Engineering Capstone (Game) - Work in Progress](http://wildingelijah.github.io/SoftwareEngCapstone)
+[Software Engineering Capstone (Game) - UnderGods](http://wildingelijah.github.io/SoftwareEngCapstone)
 
 ### Solo Projects
 
