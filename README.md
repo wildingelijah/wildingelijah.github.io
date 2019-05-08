@@ -1,6 +1,6 @@
 # Welcome to my software engineering portfolio.
 
-My name is Elijah Wilding. I am gradaute from McMaster University with a Bachelor's in Software Engineering (Game Design). The areas of my field I am most passionate about are app design and game design. Below is some of my work.
+My name is Elijah Wilding. I am a gradaute from McMaster University with a Bachelor's in Software Engineering (Game Design). The areas of my field I am most passionate about are app design and game design. Below is some of my work.
 
 ### Team Projects
 
