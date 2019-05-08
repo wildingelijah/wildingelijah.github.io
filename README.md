@@ -8,7 +8,7 @@ My name is Elijah Wilding. I am a gradaute from McMaster University with a Bache
 
 [Logo Detection App (Android App)](http://wildingelijah.github.io/LogoDetectionApp)
 
-[Software Engineering Capstone (Game) - UnderGods](http://wildingelijah.github.io/SoftwareEngCapstone)
+[UnderGods - Software Engineering Capstone (Unity Game)](http://wildingelijah.github.io/SoftwareEngCapstone)
 
 ### Solo Projects
 
