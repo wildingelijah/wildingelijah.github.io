@@ -10,6 +10,8 @@ My name is Elijah Wilding. I am a gradaute from McMaster University with a Bache
 
 [UnderGods - Software Engineering Capstone (Unity Game)](http://wildingelijah.github.io/SoftwareEngCapstone)
 
+[Super Heckin' Boop (Unity Game)](http://wildingelijah.github.io/SuperHeckinBoop)
+
 ### Solo Projects
 
 [Mobolade's Journey (Unity Game)](http://wildingelijah.github.io/MoboladesJourney)
